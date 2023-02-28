@@ -1,0 +1,139 @@
+
+.body{
+
+    background-color: white;
+}
+
+section{
+    font-family: 'Roboto', sans-serif;;
+    border: 5px solid skyblue;
+    padding: none;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-weight: bold;
+    color: grey;
+    width: 800px;
+}
+
+.circular{
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.container{
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    background-image: url("file:///C:/Users/GR/Desktop/CV.html/fondo5.webp");
+}
+.nombre{
+    color: black;
+}
+.profesion{
+    color: black;
+
+}
+
+.perfilpersonal{
+    text-align: justify;
+    line-height: 150%;
+    border: none;
+    padding: none;
+    margin-top: 20px;
+    margin-bottom: none;
+    margin-left: 5px;
+    margin-right: 50px;
+    font-weight: bold;
+    color: black;
+    width: 300px;
+    background-color: white;
+
+}
+
+.logomail{
+    margin-right: 10px;
+    margin-left: 3px;
+}
+
+.logoubi{
+    margin-right: 5px;
+    margin-left: 3px;
+}
+
+.logocelu{
+    margin-left: 5px;
+    margin-right: 7px;
+}
+.telefono{
+
+    margin-bottom: 50px;
+
+}
+
+.button{
+
+    margin-bottom: 200px;
+}
+.circular2{
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.mail{
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.ubicacion{
+    margin-top: 30px;
+}
+
+.columnas{
+
+    column-count:2;
+   column-gap:20px;
+   column-rule:2px solid black;
+   -webkit-column-count:none;
+    -webkit-column-gap:20px;
+    -webkit-column-rule:1px solid black;
+}
+columnas{
+    column-count:4;
+    column-gap:20px;
+    column-rule:4px double black;
+     
+    -webkit-column-count:4;
+    -webkit-column-gap:20px;
+    -webkit-column-rule:4px double black;
+ 
+    -moz-column-count:4;
+    -moz-column-gap:20px;
+    -moz-column-rule:4px double black;
+ 
+    -o-column-count:4;
+    -o-column-gap:20px;
+    -o-column-rule:4px double black;
+ 
+    -ms-column-count:4;
+    -ms-column-gap:20px;
+    -ms-column-rule:4px double black;
+ }
+
+ .experiencia{
+    color: black;
+    margin-right: 10px;
+ }
+
+ #boton1{
+    color: black;
+    background-color: orange;
+    font-style: oblique;
+ }
+ #boton2{
+    color: black;
+    background-color: orange;
+    font-style: oblique;
+ }
+
